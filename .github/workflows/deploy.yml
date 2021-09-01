@@ -14,28 +14,61 @@ on:
     branches: [ gh-pages ]
 
 jobs:
-  test:
+  build-pdf:
+    env: 
+      DISPLAY: :0
+      INJECT_CV_DOWNLOAD_LINK: NO
 
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
 
     steps:
     - uses: actions/checkout@v2
+    - uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: 2.5.1 
+        bundler-cache: false
+    - name: Set build name env
+      id: build-name
+      run: |
+        echo "::set-output name=value::v$(date +%s)"
     - name: Set up Ruby
     # To automatically get bug fixes and new Ruby versions for ruby/setup-ruby,
     # change this to (see https://github.com/ruby/setup-ruby#versioning):
     # uses: ruby/setup-ruby@v1
       uses: ruby/setup-ruby@473e4d8fe5dd94ee328fdfca9f8c9c7afc9dae5e
       with:
-        ruby-version: '2.6'
+        ruby-version: ${{ matrix.ruby-version }}
         bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-    - name: Run jekyll and PDF 
-      run: |
-        export DISPLAY=:99.0
-        sh -e /etc/init.d/xvfb start
-        sudo apt-get -qq update
-        sudo apt-get install -y xfonts-75dpi
-        wget https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.1/wkhtmltox-0.12.1_linux-trusty-amd64.deb
-        sudo dpkg -i wkhtmltox-0.12.1_linux-trusty-amd64.deb
-        gem install pdfkit
-        bundle install --jobs 4 --retry 3
-        ruby make_pdf.rb
+    - name: Start xvfb
+      run: | 
+        sudo apt-get install -y xvfb libxkbcommon-x11-0 libxcb-icccm4 libxcb-image0 libxcb-keysyms1 libxcb-randr0 libxcb-render-util0 libxcb-xinerama0 libxcb-xinput0 libxcb-xfixes0
+        # start xvfb in the background
+        sudo /usr/bin/Xvfb $DISPLAY -screen 0 1280x1024x24 &
+    - name: Apt update
+      run: sudo apt-get -qq update
+    - name: Install xfonts
+      run: sudo apt-get install -y xfonts-75dpi
+    - name: Install wkhtmltox
+      run: | 
+        wget https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6-1/wkhtmltox_0.12.6-1.focal_amd64.deb
+        sudo apt install ./wkhtmltox_0.12.6-1.focal_amd64.deb
+    - name: Bundle Install
+      run: bundle install
+    - name: Install pdfkit
+      run: gem install pdfkit
+    - name: Build jekyll
+      run: bundle exec jekyll build
+    - name: Generate pdf
+      run: ruby make_pdf.rb
+    - name: Bump version and push tag
+      uses: hole19/git-tag-action@master
+      env:
+        TAG: ${{ steps.build-name.outputs.value }}
+        GITHUB_TOKEN: ${{ secrets.GH_OAUTH_TOKEN }}
+    - name: Make release
+      uses: softprops/action-gh-release@v1
+      with:
+        name: ${{ steps.build-name.outputs.value }} 
+        tag_name: ${{ steps.build-name.outputs.value }}
+        files: |
+          ./_site/cv.pdf
