@@ -64,7 +64,7 @@ jobs:
       uses: hole19/git-tag-action@master
       env:
         TAG: ${{ steps.build-name.outputs.value }}
-        GITHUB_TOKEN: ${{ secrets.GH_OAUTH_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Make release
       uses: softprops/action-gh-release@v1
       with:
