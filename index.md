@@ -4,7 +4,7 @@ title: Kerem Sevencan's CV
 ---
 
 # Kerem Sevencan
-Front-end Developer
+Frontend Developer
 
 | __E-Mail__   | [ciukerem@gmail.com](mailto:ciukerem@gmail.com)                          | 
 | __Website__  | [keremciu.github.io](https://keremciu.github.io)                         |
@@ -18,7 +18,7 @@ Front-end Developer
 - Open Source Contributor
 - Experienced as a Team Lead
 - Evangelist of Design Standarts
-- Knows pentest/adtech/indoor location domains
+- Knows Security / Adtech / Indoor Location domains
 - Loves side-projects
 
 ## Currently
@@ -30,7 +30,7 @@ Based in Berlin, Germany. Working on a security platform to provide pentesting a
 
 - React ecosystem
 - Building scalable web applications from scratch
-- Taking strategic decisions on front-end architectures
+- Taking strategic decisions on frontend architectures
 - Building component libraries to provide consistent and nice user experience
 
 
@@ -47,7 +47,7 @@ __Cardiff MET University, Graphic Communication__
 
 `Sep 2019 - Present`
 __Cobalt.io__, Berlin  
-_Front-end Developer_
+_Senior Frontend Developer_
 ###### Stack: React / react-testing-library / cypress / emotion / styled-system / webpack / circle-ci / docker
 
 - Mostly worked on automation and optimization features to reduce manual work around pentest management process.
@@ -60,11 +60,11 @@ _Front-end Developer_
 
 `Jan 2017 - Mar 2019`
 __Adphorus__, Berlin  
-_Lead Front-end Developer_
+_Lead Frontend Developer_
 ###### Stack: React / Redux / Redux-saga / css-modules / post-css / webpack / jenkins / docker 
 
 - Helped team to improve their knowledge and solve their daily basis problems. 
-- Made internal presentations and wrote front-end dev specifications to make the app more scalable.
+- Made internal presentations and wrote frontend dev specifications to make the app more scalable.
 - Worked closely with back-end and product team to build new and update existing features.
 - Had a chance to be part of the rebranding and worked closely with design to build visual language.
 - Improved reusable component library and started a style-guide project to make the platform more consistent.
@@ -74,10 +74,10 @@ _Lead Front-end Developer_
 
 `May 2016 - Dec 2016`
 __PointrLabs__, London  
-_Lead Front-end Developer_
+_Lead Frontend Developer_
 ###### Stack: React / Redux / Redux-thunk / material-ui / GraphQL / nodejs (express) / sass / gulpjs 
 
-- Built an enterprise product from scratch. I built a NodeJS GraphQL server to share our REST API on .net. It fixed our dynamic object modeling problems between front-end, iOS and android teams.
+- Built an enterprise product from scratch. I built a NodeJS GraphQL server to share our REST API on .net. It fixed our dynamic object modeling problems between frontend, iOS and android teams.
 - Built SPA which connects my middleware GraphQL server, inspired by kriasoft/react-starter-kit.
 - Made internal presentations about GraphQL and Redux.
 - Built responsive website with completely new UI and functionality.
@@ -86,7 +86,7 @@ _Lead Front-end Developer_
 
 `Sep 2014 - Oct 2016`
 __Asseco South Eastern Europe__, London  
-_Front-end Developer & Designer_
+_Frontend Developer & Designer_
 ###### Stack: React / Angular1 / GulpJS / Sketch 
 
 - Built iPad and mobile applications with Angular1/React and Cordova.
@@ -97,7 +97,7 @@ _Front-end Developer & Designer_
 
 `Apr 2014 - Oct 2014`
 __Online People__, London  
-_Front-end Developer & Designer_
+_Frontend Developer & Designer_
 ###### Stack: Angular1 / Cordova / Grunt / Sketch 
 
 - Built a hybrid web application from the ground up; transitioning it 
@@ -106,7 +106,7 @@ from a facebook app into to cross-device app.
 
 `Oct 2010 - Dec 2012` 
 __YCEO__, Istanbul  
-_Front-end Developer_
+_Frontend Developer_
 ###### Stack: jQuery / Core Javascript / CSS3 / Python / Django 
 
 - Implemented client-specialized design on top of our theme system on Django View Layer.
@@ -114,7 +114,7 @@ _Front-end Developer_
 
 
 `Jan 2010 - Oct 2010` __Bilginet Bilisim__, Istanbul  
-_Front-end Developer_
+_Frontend Developer_
 ###### Stack: jQuery / CSS / PHP / mysql / ASP
 
 - Implemented client-specialized design on table-based html template.
@@ -123,26 +123,36 @@ _Front-end Developer_
 
 ## Links
 
-Online party game
-[house of decks](http://houseofdecks.herokuapp.com/)
+###### Stack: NodeJS / WebSocket / Playwright (e2e) / Typescript / React 
+__Online party game__
+_[house of decks](http://houseofdecks.herokuapp.com/)_
 
-Popular sketch plugin
-[sketch iconfont](https://github.com/keremciu/sketch-iconfont)
+---
 
--old- design portfolio
-[slideshare 2016](https://www.slideshare.net/KeremSevencan/portfolio-61062213)
+###### Stack: CocoaScript / Webkit JavaScript Core
+__Popular sketch plugin__
+_[sketch iconfont](https://github.com/keremciu/sketch-iconfont)_
 
-FIFA Tournament generator (python)
-[project repository](https://github.com/keremciu/fifa-tournament-generator)
+---
 
-Retro Calculator
-[project demo](https://keremciu.github.io/retro-calculator/)
+###### Stack: Python / SQLite / Bootstrap
+__FIFA Tournament generator (python)__
+_[project repository](https://github.com/keremciu/fifa-tournament-generator)_
 
-Mini-Kanban
-[project repository](https://github.com/keremciu/mini-kanban)
+---
 
+###### Stack: React / Unit test
+__Retro Calculator__
+_[project demo](https://keremciu.github.io/retro-calculator/)_
 
+---
 
+__-old- design portfolio__
+_[slideshare 2016](https://www.slideshare.net/KeremSevencan/portfolio-61062213)_
 
+---
 
+###### Stack: React / Unit test
+__Mini-Kanban__
+_[project repository](https://github.com/keremciu/mini-kanban)_
 
