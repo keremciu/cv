@@ -1,4 +1,11 @@
 markdown: kramdown
-exclude: ['README.md', 'LICENSE', 'make_pdf.rb', 'Gemfile', 'Gemfile.lock']
+exclude: 
+  - tmp/
+  - vendor/
+  - README.md
+  - LICENSE
+  - make_pdf.rb 
+  - Gemfile 
+  - Gemfile.lock
 plugins:
   - "jekyll-github-metadata"
