@@ -2,7 +2,8 @@ require 'pdfkit'
 
 PDFKit.configure do |config|
 	config.default_options = {
-		'disable-javascript': nil
+		'disable-javascript': nil,
+    'enable-local-file-access': true 
 	}
 	config.verbose = true
 end
