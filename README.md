@@ -7,17 +7,11 @@
 |----------------------------   |------------------|
 | [keremciu.github.io/cv] | [latest release] |
 
-[![Build Status](https://travis-ci.org/keremciu/cv.svg?branch=gh-pages)](https://travis-ci.org/keremciu/cv)
-
 **If you want to have your own, just fork this repo and modify the `index.md`.**
 
 This is a fairly modified version of
-[elipapa's markdown-cv](http://elipapa.github.io/markdown-cv) project.  
+[eralpkaraduman's markdown-cv](http://eralpkaraduman.github.io/cv) project.  
 Which is using [jekyll](https://jekyllrb.com) to host the cv as static site on github.
-
-My version simply uses
-[sindresorhus's github-markdown-css](https://github.com/sindresorhus/github-markdown-css), the close
-replica of github's markdown style. And it is able to auto-generate a PDF version release through travis-ci (if set up)
 
 
 ## Features
@@ -30,16 +24,20 @@ replica of github's markdown style. And it is able to auto-generate a PDF versio
 
 ## Automatic PDF version generation
 
-Also if you set up Travis CI, i configured it up so after every commit, travis will print it to `cv.pdf` then create a release on github. You can always link to the latest release by adding the sufffix `/releases/latest` to repo url.  
+If you configure the GitHub Action, it creates a pdf version then create a release on github. You can always link to the latest release by adding the sufffix `/releases/latest` to repo url.  
 For example;  
 github.com/your-username-here/cv[/releases/latest](https://github.com/eralpkaraduman/cv/releases/latest)
 
 To enable this;  
 - Go to [github.com/settings/tokens](https://github.com/settings/tokens)
 - Generate a personal access token, give it `public_repo` permission
-- Go to travis-ci.org settings page of you repo
-- Enter the token as Environment Variable with the key `GITHUB_OAUTH_TOKEN`
-- If everything was right, it will create a release under `/releases` page of your github repo
+- Go to the secrets settings of this github repo (the one that is your clone)
+  - https://github.com/your-username-here/cv/settings/secrets/actions
+  - Remember to change the username in the url above
+- Click "New repository secret" 
+- Name it `GH_OAUTH_TOKEN`
+- Paste the token you generated in the earlier step here
+- Next time you make a change, it should create a new release under `/releases` page of your github repo
 - Latest release is conveniently always at `/releases/latest`
 
 
@@ -49,10 +47,9 @@ I added a feature which automatically adds the latest PDF version download link 
 This only works when automatic PDF version generation was set up (mentioned above).   
 This is done by javascript running on the page, it tries to fetch github's API to get the last release.  
 This link won't be generated in the PDF itself for several reasons;  
-- Lack of necessity, since you have the pdf there's need to download it again.
-- I didn't want to deal with all the troubles coming with executing javascript in pdf generation context
-- Travis CI blocks the request to github API i guess?
-- I disabled javascript for wkhtmltopdf, see 2 reasons above.
+- Lack of necessity, since you have the pdf there's no need to download it again.
+- I didn't want to figure out the issues with executing javascript in pdf generation context
+- I disabled javascript on wkhtmltopdf, see reasons above.
 
 
 ## Running jekyll locally
