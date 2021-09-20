@@ -11,9 +11,9 @@ Frontend Developer
 | __linkedin__ | [linkedin.com/in/keremsevencan](https://linkedin.com/in/keremsevencan)   |
 | __twitter__  | [twitter.com/keremciu](https://twitter.com/keremciu)                     |
 
-## TLDR;
+## TL;DR
 
-- 10+ years in software dev
+- 11+ years in software dev
 - React Enthusiast
 - Open Source Contributor
 - Experienced as a Team Lead
