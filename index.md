@@ -6,10 +6,10 @@ title: Kerem Sevencan's CV
 # Kerem Sevencan
 Frontend Developer
 
-| __E-Mail__   | [ciukerem@gmail.com](mailto:ciukerem@gmail.com)                          | 
-| __Website__  | [keremciu.github.io](https://keremciu.github.io)                         |
-| __LinkedIn__ | [linkedin.com/in/keremsevencan](https://linkedin.com/in/keremsevencan)   |
-| __Twitter__  | [twitter.com/keremciu](https://twitter.com/keremciu)                     |
+| __email__   | [ciukerem@gmail.com](mailto:ciukerem@gmail.com)                          | 
+| __website__  | [keremciu.github.io](https://keremciu.github.io)                         |
+| __linkedin__ | [linkedin.com/in/keremsevencan](https://linkedin.com/in/keremsevencan)   |
+| __twitter__  | [twitter.com/keremciu](https://twitter.com/keremciu)                     |
 
 ## TLDR;
 
@@ -147,12 +147,12 @@ _[project demo](https://keremciu.github.io/retro-calculator/)_
 
 ---
 
-__-old- design portfolio__
-_[slideshare 2016](https://www.slideshare.net/KeremSevencan/portfolio-61062213)_
-
----
-
 ###### Stack: React / Unit test
 __Mini-Kanban__
 _[project repository](https://github.com/keremciu/mini-kanban)_
+
+---
+
+__-old- design portfolio__
+_[slideshare 2016](https://www.slideshare.net/KeremSevencan/portfolio-61062213)_
 
