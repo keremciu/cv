@@ -3,15 +3,10 @@ layout: cv
 title: Kerem Sevencan's CV
 ---
 
-# Kerem Sevencan
-Frontend Developer
+# Kerem Sevencan 
+Software Developer, [keremciu.github.io](https://keremciu.github.io)
 
-| __email__   | [ciukerem@gmail.com](mailto:ciukerem@gmail.com)                          | 
-| __website__  | [keremciu.github.io](https://keremciu.github.io)                         |
-| __linkedin__ | [linkedin.com/in/keremsevencan](https://linkedin.com/in/keremsevencan)   |
-| __twitter__  | [twitter.com/keremciu](https://twitter.com/keremciu)                     |
-
-## TL;DR
+### TL;DR
 
 - 11+ years in software dev
 - React Enthusiast
@@ -45,7 +40,7 @@ __Cardiff MET University, Graphic Communication__
 
 ## Occupation
 
-`Sep 2019 - Present`
+`Sep 2019 - Nov 2021`
 __Cobalt.io__, Berlin  
 _Senior Frontend Developer_
 ###### Stack: React / react-testing-library / cypress / emotion / styled-system / webpack / circle-ci / docker
@@ -120,6 +115,12 @@ _Frontend Developer_
 - Implemented client-specialized design on table-based html template.
 - Developed login and cart components with jQuery AJAX on top of bad-structured html.
 - Developed a facebook application which provides our clients to show their products on their facebook page.
+
+### Contact
+
+| __email__   | [ciukerem@gmail.com](mailto:ciukerem@gmail.com)                          | 
+| __linkedin__ | [linkedin.com/in/keremsevencan](https://linkedin.com/in/keremsevencan)   |
+| __twitter__  | [twitter.com/keremciu](https://twitter.com/keremciu)                     |
 
 ## Links
 
