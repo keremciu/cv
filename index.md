@@ -69,15 +69,15 @@ __Online People__, London — _Frontend Developer & Designer_
 __YCEO__, Istanbul — _Frontend Developer_
 ###### Stack: jQuery / Core Javascript / CSS3 / Python / Django
 
-- Implemented Client specific designs on top of our theme system on Django View Layer like custom Shopify themes.
-- Developed reusable jQuery components like slider, cart and checkout components with good animation constraints.
+- Implemented Client specific designs on top of Django View Layer like custom Shopify themes.
+- Developed reusable jQuery components like slider, cart and checkout components.
 
 `Jan 2010 - Oct 2010` __Bilginet Bilisim__, Istanbul — _Frontend Developer_
 ###### Stack: jQuery / CSS / PHP / mysql / ASP
 
 - Implemented Client specific designs on top of basic HTML tables.
 - Developed reusable Login and Card component by using jQuery and AJAX.
-- Developed a facebook app which works as a tab on our clients facebook pages to show their e-commerce products.
+- Developed a facebook app which works as a tab on our clients facebook pages to show their products.
 
 ## Education
 
