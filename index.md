@@ -5,7 +5,7 @@ title: Kerem Sevencan's CV
 
 ## Kerem Sevencan — [keremciu.github.io](https://keremciu.github.io)
 
-12+ years in software dev — React & Typescript Enthusiast — Open Source Contributor — Experienced Team Lead
+12+ years in software dev — React & TypeScript Enthusiast — Open Source Contributor — Experienced Team Lead
 
 #### Specialized in
 
@@ -88,8 +88,6 @@ __Cardiff MET University, Graphic Communication__
 
 ### Contact
 
-| __GitHub__  | [github.com/keremciu](https://github.com/keremciu)                     |
-| __linkedin__ | [linkedin.com/in/keremsevencan](https://linkedin.com/in/keremsevencan)   |
-| __email__   | [ciukerem@gmail.com](mailto:ciukerem@gmail.com)                          | 
-| __twitter__  | [twitter.com/keremciu](https://twitter.com/keremciu)                     |
+| __GitHub__  | [github.com/keremciu](https://github.com/keremciu) | __email__   | [ciukerem@gmail.com](mailto:ciukerem@gmail.com)  |
+| __linkedin__ | [linkedin.com/in/keremsevencan](https://linkedin.com/in/keremsevencan) | __twitter__  | [twitter.com/keremciu (https://twitter.com/keremciu)|
 
