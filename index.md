@@ -4,30 +4,18 @@ title: Kerem Sevencan's CV
 ---
 
 # Kerem Sevencan 
-Software Developer, [keremciu.github.io](https://keremciu.github.io)
+Software Developer — Berlin, Germany — [keremciu.github.io](https://keremciu.github.io)
 
-### TL;DR
+##### TL;DR
 
-- 11+ years in software dev
-- React Enthusiast
-- Open Source Contributor
-- Experienced as a Team Lead
-- Evangelist of Design Standarts
-- Knows Security / Adtech / Indoor Location domains
-- Loves side-projects
-
-## Currently
-
-Based in Berlin, Germany. Working on a security platform to provide pentesting as a service.
-
+12+ years in software dev — React and Typescript Enthusiast — Open Source Contributor — Experienced as a Team Lead
 
 ### Specialized in
 
-- React ecosystem
+- Developing React components and libraries to help developers and designers.
 - Building scalable web applications from scratch
-- Taking strategic decisions on frontend architectures
-- Building component libraries to provide consistent and nice user experience
-
+- Promoting async communication and contributing to good documentation.
+- Creating design systems with the right constraints to ensure it can be used anywhere without sacrificing quality
 
 ## Education
 
@@ -45,24 +33,22 @@ __Cobalt.io__, Berlin
 _Senior Frontend Developer_
 ###### Stack: React / react-testing-library / cypress / emotion / styled-system / webpack / circle-ci / docker
 
-- Mostly worked on automation and optimization features to reduce manual work around pentest management process.
-- Built a component library with styled-system then applied that into all the consumer applications.
-- Improved user experience of web applications while providing consistent and pixel-perfect user interface.
-- Improved mocking network layer by applying mock service worker(msw) and used it to improve tests and development.
-- Helped to land e2e infrastructure with Cypress and implemented critical tests.
-- Improved unit/integration test quality by transitioning over to react-testing library from enzyme.
-- Created many RFC/engineering initiatives to improve code quality(mostly code removal :) and wrote documentation to help others.
+- Worked on automation features to reduce manual clicks(90 -> 12) around pentest management process.
+- Built a component library with `styled-system` then applied that into all consumer-facing applications.
+- Landed e2e infrastructure with Cypress and implemented happy-path tests.
+- Improved unit/integration test quality by transitioning over `react-testing library` from `enzyme`.
+- Implemented network mock solution by using `mock service worker` and `openapi-backend` libs to provide engineering-wide integration test setup which consumes OpenAPI(swagger) specs.
+- Wrote many documents/RFC to improve code quality all across enginering.
 
 `Jan 2017 - Mar 2019`
 __Adphorus__, Berlin  
 _Lead Frontend Developer_
 ###### Stack: React / Redux / Redux-saga / css-modules / post-css / webpack / jenkins / docker 
 
-- Helped team to improve their knowledge and solve their daily basis problems. 
-- Made internal presentations and wrote frontend dev specifications to make the app more scalable.
-- Worked closely with back-end and product team to build new and update existing features.
-- Had a chance to be part of the rebranding and worked closely with design to build visual language.
-- Improved reusable component library and started a style-guide project to make the platform more consistent.
+- Hired 8 people for the front end and helped them increase their knowledge base and productivity.
+- Made many internal presentations to explain the business domain and tech, also has written documentation on processes.
+- Worked closely with design team on rebranding to build a visual language that affected all the consumer facing apps.
+- Solved different scalability problems(aws lambda) regarding the big hotel/airline feeds to create visual ads automatically.
 
 🌟 Adphorus has been acquired by Sojern at November 2017.
 
@@ -70,14 +56,12 @@ _Lead Frontend Developer_
 `May 2016 - Dec 2016`
 __PointrLabs__, London  
 _Lead Frontend Developer_
-###### Stack: React / Redux / Redux-thunk / material-ui / GraphQL / nodejs (express) / sass / gulpjs 
+###### Stack: React / Redux / Redux-thunk / material-ui / GraphQL / nodejs (express) / sass / gulpjs
 
-- Built an enterprise product from scratch. I built a NodeJS GraphQL server to share our REST API on .net. It fixed our dynamic object modeling problems between frontend, iOS and android teams.
-- Built SPA which connects my middleware GraphQL server, inspired by kriasoft/react-starter-kit.
-- Made internal presentations about GraphQL and Redux.
-- Built responsive website with completely new UI and functionality.
-- Built a mini Application Manager for clients to access their apps with passwords with GulpJS.
-
+- Built a server application from stratch to serve .NET REST API to mobile apps and a new dashboard for serving indoor location data. It fixed dynamic object modeling problems between development teams.
+- Made internal presentation about GraphQL and Redux here to increase adoptation.
+- Built a responsive website with automated deploy orchestration.
+- Built a small access management tool to help out marketing team for sharing specialized demos.
 
 `Sep 2014 - Oct 2016`
 __Asseco South Eastern Europe__, London  
@@ -85,36 +69,33 @@ _Frontend Developer & Designer_
 ###### Stack: React / Angular1 / GulpJS / Sketch 
 
 - Built iPad and mobile applications with Angular1/React and Cordova.
-- Helped product team for analyze, wireframe and design phases.
-- Made interfaces with GulpJS for internal tools.
-- Acted as a technical-lead in the team, joined many client meetings.
-
+- Helped the product team for different phases like business analyze, wireframing and design.
+- Made simple interfaces with GulpJS for internal dev tooling.
+- Acted a technical supervisor and joined many client meetings as I worked in several web projects.
 
 `Apr 2014 - Oct 2014`
 __Online People__, London  
 _Frontend Developer & Designer_
-###### Stack: Angular1 / Cordova / Grunt / Sketch 
+###### Stack: Angular1 / Cordova / Grunt / Sketch
 
-- Built a hybrid web application from the ground up; transitioning it 
-from a facebook app into to cross-device app.
-- Designed all assets of the application and company.
+- Built a hybrid web application from stratch. Transitioned a facebook app into a cross-device app.
+- Designed all design assets of the application and the company itself.
 
 `Oct 2010 - Dec 2012` 
 __YCEO__, Istanbul  
 _Frontend Developer_
-###### Stack: jQuery / Core Javascript / CSS3 / Python / Django 
+###### Stack: jQuery / Core Javascript / CSS3 / Python / Django
 
-- Implemented client-specialized design on top of our theme system on Django View Layer.
-- Developer jQuery components like slider, cart and check-out components.
-
+- Implemented Client specific designs on top of our theme system on Django View Layer like custom Shopify themes.
+- Developed reusable jQuery components like slider, cart and checkout components with good animation constraints.
 
 `Jan 2010 - Oct 2010` __Bilginet Bilisim__, Istanbul  
 _Frontend Developer_
 ###### Stack: jQuery / CSS / PHP / mysql / ASP
 
-- Implemented client-specialized design on table-based html template.
-- Developed login and cart components with jQuery AJAX on top of bad-structured html.
-- Developed a facebook application which provides our clients to show their products on their facebook page.
+- Implemented Client specific designs on top of basic HTML tables.
+- Developed reusable Login and Card component by using jQuery and AJAX.
+- Developed a facebook app which works as a tab on our clients facebook pages to show their e-commerce products.
 
 ### Contact
 
