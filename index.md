@@ -25,7 +25,7 @@ __Cobalt.io__, Berlin, DE — _Senior Frontend Developer_
 - Landed e2e infrastructure with Cypress and implemented happy-path tests.
 - Improved unit/integration test quality by transitioning over `react-testing library` from `enzyme`.
 - Implemented network mock solution by using `mock service worker` and `openapi-backend` libs to provide engineering-wide integration test setup which consumes OpenAPI(swagger) specs.
-- Wrote many documents/RFC to improve code quality all across enginering.
+- Wrote many documents/RFC to improve code quality all across engineering.
 
 `Jan 2017 - Mar 2019`
 __Adphorus__, Berlin, DE — _Lead Frontend Developer_
