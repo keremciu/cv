@@ -4,27 +4,16 @@ title: Kerem Sevencan's CV
 ---
 
 # Kerem Sevencan 
-Software Developer — Berlin, Germany — [keremciu.github.io](https://keremciu.github.io)
+Berlin, Germany — [keremciu.github.io](https://keremciu.github.io)
 
-##### TL;DR
-
-12+ years in software dev — React and Typescript Enthusiast — Open Source Contributor — Experienced as a Team Lead
+12+ years in software development — React and Typescript Enthusiast — Open Source Contributor — Experienced as a Team Lead
 
 ### Specialized in
 
 - Developing React components and libraries to help developers and designers.
-- Building scalable web applications from scratch
+- Building design systems with the right constraints.
+- Building scalable web apps from scratch with testing in mind.
 - Promoting async communication and contributing to good documentation.
-- Creating design systems with the right constraints to ensure it can be used anywhere without sacrificing quality
-
-## Education
-
-`2011-2016`
-__Maltepe University, Visual Communication Design__
-
-`2013-2015`
-__Cardiff MET University, Graphic Communication__
-
 
 ## Occupation
 
@@ -46,9 +35,9 @@ _Lead Frontend Developer_
 ###### Stack: React / Redux / Redux-saga / css-modules / post-css / webpack / jenkins / docker 
 
 - Hired 8 people for the front end and helped them increase their knowledge base and productivity.
-- Made many internal presentations to explain the business domain and tech, also has written documentation on processes.
-- Worked closely with design team on rebranding to build a visual language that affected all the consumer facing apps.
-- Solved different scalability problems(aws lambda) regarding the big hotel/airline feeds to create visual ads automatically.
+- Made internal presentations to explain the business domain and tech.
+- Worked with design team on rebranding to build a `visual language` that used by consumer facing interfaces.
+- Solved scalability problems(aws lambda) for big hotel/airline feeds to create visual ads automatically.
 
 🌟 Adphorus has been acquired by Sojern at November 2017.
 
@@ -97,44 +86,18 @@ _Frontend Developer_
 - Developed reusable Login and Card component by using jQuery and AJAX.
 - Developed a facebook app which works as a tab on our clients facebook pages to show their e-commerce products.
 
+## Education
+
+`2011-2016`
+__Maltepe University, Visual Communication Design__
+
+`2013-2015`
+__Cardiff MET University, Graphic Communication__
+
 ### Contact
 
-| __email__   | [ciukerem@gmail.com](mailto:ciukerem@gmail.com)                          | 
+| __GitHub__  | [github.com/keremciu](https://github.com/keremciu)                     |
 | __linkedin__ | [linkedin.com/in/keremsevencan](https://linkedin.com/in/keremsevencan)   |
+| __email__   | [ciukerem@gmail.com](mailto:ciukerem@gmail.com)                          | 
 | __twitter__  | [twitter.com/keremciu](https://twitter.com/keremciu)                     |
-
-## Links
-
-###### Stack: NodeJS / WebSocket / Playwright (e2e) / Typescript / React 
-__Online party game__
-_[house of decks](http://houseofdecks.herokuapp.com/)_
-
----
-
-###### Stack: CocoaScript / Webkit JavaScript Core
-__Popular sketch plugin__
-_[sketch iconfont](https://github.com/keremciu/sketch-iconfont)_
-
----
-
-###### Stack: Python / SQLite / Bootstrap
-__FIFA Tournament generator (python)__
-_[project repository](https://github.com/keremciu/fifa-tournament-generator)_
-
----
-
-###### Stack: React / Unit test
-__Retro Calculator__
-_[project demo](https://keremciu.github.io/retro-calculator/)_
-
----
-
-###### Stack: React / Unit test
-__Mini-Kanban__
-_[project repository](https://github.com/keremciu/mini-kanban)_
-
----
-
-__-old- design portfolio__
-_[slideshare 2016](https://www.slideshare.net/KeremSevencan/portfolio-61062213)_
 
