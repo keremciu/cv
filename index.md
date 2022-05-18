@@ -9,10 +9,9 @@ title: Kerem Sevencan's CV
 
 #### Specialized in
 
-- Developing React components and libraries to help developers and designers.
-- Building design systems with scalable constraints.
-- Building scalable web apps from scratch with testing in mind.
-- Promoting async communication and contributing to good documentation.
+- Building scalable web apps from scratch with Testing and Security in mind.
+- Building Design Systems with a11y and consistency constraints.
+- Promoting async communication and good documentation to make processes faster.
 
 ## Occupation
 
