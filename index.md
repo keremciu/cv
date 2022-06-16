@@ -17,7 +17,7 @@ title: Kerem Sevencan's CV
 
 `Sep 2019 - Nov 2021`
 __Cobalt.io__, Berlin, DE — _Senior Frontend Developer_
-###### Stack: React / react-testing-library / cypress / emotion / styled-system / webpack / circle-ci / docker
+###### Stack: [Dashboard & Client app] React / react-testing-library / cypress / emotion / styled-system / webpack / circle-ci / docker
 
 - Worked on automation features to reduce manual clicks(90 -> 12) around pentest management process.
 - Built a component library with `styled-system` and followed `tokens > utils > components` pattern.
@@ -28,7 +28,7 @@ __Cobalt.io__, Berlin, DE — _Senior Frontend Developer_
 
 `Jan 2017 - Mar 2019`
 __Adphorus__, Berlin, DE — _Lead Frontend Developer_
-###### Stack: React / Redux / Redux-saga / css-modules / post-css / webpack / jenkins / docker 
+###### Stack: [Dashboard & Client App, Tools] React / Redux / Redux-saga / css-modules / post-css / webpack / jenkins / docker 
 
 - Hired 8 people for the front end and helped them increase their knowledge base and productivity.
 - Made internal presentations to explain the business domain and tech.
@@ -40,7 +40,7 @@ __Adphorus__, Berlin, DE — _Lead Frontend Developer_
 
 `May 2016 - Dec 2016`
 __PointrLabs__, London, UK — _Lead Frontend Developer_
-###### Stack: React / Redux / Redux-thunk / material-ui / GraphQL / nodejs (express) / sass / gulpjs
+###### Stack: [Dashboard App] React / Redux / Redux-thunk / material-ui / GraphQL / nodejs (express) / sass / gulpjs
 
 - Built a server application from stratch to serve .NET REST API to mobile apps and a new dashboard for serving indoor location data. It fixed dynamic object modeling problems between development teams.
 - Made internal presentation about GraphQL and Redux here to increase adoptation.
@@ -49,7 +49,7 @@ __PointrLabs__, London, UK — _Lead Frontend Developer_
 
 `Sep 2014 - Oct 2016`
 __Asseco South Eastern Europe__, London, UK — _Frontend Developer & Designer_
-###### Stack: React / Angular1 / GulpJS / Sketch 
+###### Stack: [Client Facing Applications] React / Angular1 / GulpJS / Sketch 
 
 - Built iPad and mobile applications with Angular1/React and Cordova.
 - Helped the product team for different phases like business analyze, wireframing and design.
@@ -58,20 +58,20 @@ __Asseco South Eastern Europe__, London, UK — _Frontend Developer & Designer_
 
 `Apr 2014 - Oct 2014`
 __Online People__, London, UK — _Frontend Developer & Designer_
-###### Stack: Angular1 / Cordova / Grunt / Sketch
+###### Stack: [Mobile App] Angular1 / Cordova / Grunt / Sketch
 
 - Built a hybrid web application from stratch. Transitioned a facebook app into a cross-device app.
 - Designed all design assets of the application and the company itself.
 
 `Oct 2010 - Dec 2012` 
 __YCEO__, Istanbul, TR — _Frontend Developer_
-###### Stack: jQuery / Core Javascript / CSS3 / Python / Django
+###### Stack: [Ecommerce Platform] jQuery / Core Javascript / CSS3 / Python / Django
 
 - Implemented Client specific designs on top of Django View Layer like custom Shopify themes.
 - Developed reusable jQuery components like slider, cart and checkout components.
 
 `Jan 2010 - Oct 2010` __Bilginet Bilisim__, Istanbul, TR — _Frontend Developer_
-###### Stack: jQuery / CSS / PHP / mysql / ASP
+###### Stack: [Ecommerce Platform] jQuery / CSS / PHP / mysql / ASP
 
 - Implemented Client specific designs on top of basic HTML tables.
 - Developed reusable Login and Card component by using jQuery and AJAX.
