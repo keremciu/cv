@@ -20,8 +20,8 @@ __Cobalt.io__, Berlin, DE — _Senior Frontend Developer_
 ###### Stack: [Dashboard & Client app] React / react-testing-library / cypress / emotion / styled-system / webpack / circle-ci / docker
 
 - Worked on automation features to reduce manual clicks(90 -> 12) around pentest management process.
-- Built a component library with `styled-system` and followed `tokens > utils > components` pattern.
-- Landed e2e infrastructure with Cypress and implemented happy-path tests.
+- Built a [component library](https://designsystem.cobalt.io/) with `styled-system` and followed `tokens > utils > components` pattern.
+- Landed e2e infrastructure with Cypress and implemented happy-path tests. (had also [playwright](https://playwright.dev))
 - Improved unit/integration test quality by transitioning over `react-testing library` from `enzyme`.
 - Implemented network mock solution by using `mock service worker` and `openapi-backend` libs to provide engineering-wide integration test setup which consumes OpenAPI(swagger) specs.
 - Wrote many documents/RFC to improve code quality all across engineering.
