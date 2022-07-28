@@ -5,7 +5,7 @@ title: Kerem Sevencan's CV
 
 ## Kerem Sevencan — [keremciu.github.io](https://keremciu.github.io)
 
-12+ years in software dev — React & TypeScript Enthusiast — Open Source Contributor — Experienced Team Lead
+12+ years in software dev — React & TypeScript Enthusiast — Open Source Contributor — Tech Lead
 
 #### Specialized in
 
