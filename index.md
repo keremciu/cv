@@ -5,7 +5,7 @@ title: Kerem Sevencan's CV
 
 ## Kerem Sevencan — [keremciu.github.io](https://keremciu.github.io)
 
-12+ years in software dev — React & TypeScript Enthusiast — Open Source Contributor — Tech Lead
+13+ years in software dev — React & TypeScript Enthusiast — Open Source Contributor — Tech Lead
 
 #### Specialized in
 
@@ -15,8 +15,25 @@ title: Kerem Sevencan's CV
 
 ## Occupation
 
+`Oct 2022 - Aug 2023`
+__Rapid__, Berlin, DE — _Senior Software Engineer_
+###### Stack: [Client app & Backend] React / nextjs / python / k8s / aws / nodejs / grahpQL
+
+- Implemented CI/CD for a large Python monolithic project and made it compliant with the 12-factor app principles.
+- Collaborated with a team to consolidate two different AWS accounts, migrating from AWS ECS to EKS.
+- Automated the design-to-frontend handover process by implementing Design Tokens with an excellent team.
+- Worked on microfrontends setup and made it ready to use like a template by other teams.
+
+`Dec 2021 - Oct 2022`
+__Feather Insurance__, Berlin, DE — _Senior Software Engineer_
+###### Stack: [Website & Client app] React / react-testing-library / nextjs / emotion / webpack / docker
+
+- Led a token based auth to cookie based auth transition project with head of engineering.
+- Created a testing culture for frontend applications and made workshops and presentations.
+- Wrote many documents(ADR/ERD/RFC) to improve code quality/understanding all across engineering.
+
 `Sep 2019 - Nov 2021`
-__Cobalt.io__, Berlin, DE — _Senior Frontend Developer_
+__Cobalt.io__, Berlin, DE — _Senior Software Engineer_
 ###### Stack: [Dashboard & Client app] React / react-testing-library / cypress / emotion / styled-system / webpack / circle-ci / docker
 
 - Worked on automation features to reduce manual clicks(90 -> 12) around pentest management process.
