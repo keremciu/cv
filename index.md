@@ -21,9 +21,11 @@ __Rapid__, Berlin, DE — _Tech Lead Software Engineer_
 ###### Stack: [Client app & Backend] React / nextjs / python / k8s / aws / nodejs / grahpQL
 
 - Implemented CI/CD for a critical Python monolith and made it compliant with the 12-factor app principles.
+- Ran large-scale integration projects with multiple teams, also serving as a product manager to design the roadmap.
 - Led a team to consolidate two different AWS accounts, migrating from AWS ECS to EKS.
 - Automated the design-to-frontend handover process by implementing Design Tokens with an excellent team.
 - Worked on microfrontends setup and made it ready to use like a template by other teams.
+- Ensured enterprise-grade quality by implementing robust testing and security measures throughout the product.
 
 `Dec 2021 - Oct 2022`
 __Feather Insurance__, Berlin, DE — _Senior Software Engineer_
