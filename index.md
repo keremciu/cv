@@ -17,7 +17,7 @@ title: Kerem Sevencan's CV
 ## Occupation
 
 `Oct 2022 - Aug 2023`
-__Rapid__, Berlin, DE — _Senior Software Engineer_
+__Rapid__, Berlin, DE — _Tech Lead Software Engineer_
 ###### Stack: [Client app & Backend] React / nextjs / python / k8s / aws / nodejs / grahpQL
 
 - Implemented CI/CD for a critical Python monolith and made it compliant with the 12-factor app principles.
