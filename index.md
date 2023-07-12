@@ -12,7 +12,7 @@ title: Kerem Sevencan's CV
 - Building scalable web apps from scratch with Testing and Security in mind.
 - Building Design Systems with user-centric design, a11y and consistency constraints.
 - Promoting async communication and good documentation to make processes faster.
-- Worked in API / Cyber Security / Adtech / Insurtech / Navigation-tech domains
+- Worked in Fintech / Adtech / API  / CyberSecurity / Insurtech / IPS domains.
 
 ## Occupation
 
