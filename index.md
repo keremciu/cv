@@ -5,16 +5,16 @@ title: Kerem Sevencan's CV
 
 ## Kerem Sevencan — [keremciu.github.io](https://keremciu.github.io)
 
-13+ years in software dev - Tech Lead - TypeScript Enthusiast - High EQ
+Tech Lead Software Engineer with 13+ years of experience - TypeScript Enthusiast - High EQ
 
 #### Specialized in
 
-- Building scalable web apps from scratch with Testing and Security in mind.
-- Building Design Systems with user-centric design, a11y and consistency constraints.
-- Promoting async communication and good documentation to make processes faster.
-- Worked in Fintech / Adtech / API  / CyberSecurity / Insurtech / IPS domains.
+- Building scalable web apps with a focus on Testing and Security.
+- Creating user-centric, accessible and consistent Design Systems.
+- Promoting efficient async communication, collaboration, and documentation.
+- Experience in Fintech, Adtech, Devtools, Cybersecurity, Insurtech, and IPS domains.
 
-## Occupation
+## Work Experience
 
 `Oct 2022 - Aug 2023`
 __Rapid__, Berlin, DE — _Tech Lead Software Engineer_
