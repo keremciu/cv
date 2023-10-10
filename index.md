@@ -18,7 +18,7 @@ Tech Lead Software Engineer with 13+ years of experience - TypeScript Enthusiast
 
 `Oct 2022 - Aug 2023`
 __Rapid__, Berlin, DE — _Tech Lead Software Engineer_
-###### Stack: [Client app & Backend] React / nextjs / python / k8s / aws / nodejs / grahpQL
+###### <sup>STACK</sup> React / nextjs / single-spa / python / k8s / aws / eks / nodejs / grahpQL
 
 - Implemented CI/CD for a critical Python monolith and made it compliant with the 12-factor app principles.
 - Ran large-scale integration projects with multiple teams, also serving as a product manager to design the roadmap.
@@ -29,7 +29,7 @@ __Rapid__, Berlin, DE — _Tech Lead Software Engineer_
 
 `Dec 2021 - Oct 2022`
 __Feather Insurance__, Berlin, DE — _Senior Software Engineer_
-###### Stack: [Website & Client app] React / react-testing-library / nextjs / emotion / webpack / docker
+###### <sup>STACK</sup> React / react-testing-library / nextjs / emotion / webpack / docker
 
 - Led a token based auth to cookie based auth transition project with head of engineering.
 - Created a testing culture for frontend applications and made workshops and presentations.
@@ -38,7 +38,7 @@ __Feather Insurance__, Berlin, DE — _Senior Software Engineer_
 
 `Sep 2019 - Nov 2021`
 __Cobalt.io__, Berlin, DE — _Senior Software Engineer_
-###### Stack: [Dashboard & Client app] React / react-testing-library / cypress / emotion / styled-system / webpack / circle-ci / docker
+###### <sup>STACK</sup> React / react-testing-library / cypress / emotion / styled-system / webpack / circle-ci / docker
 
 - Worked on automation features to reduce manual clicks(90 -> 12) around pentest management process.
 - Built a [component library](https://designsystem.cobalt.io/) with `styled-system` and followed `tokens > utils > components` pattern.
@@ -49,7 +49,7 @@ __Cobalt.io__, Berlin, DE — _Senior Software Engineer_
 
 `Jan 2017 - Mar 2019`
 __Adphorus__, Berlin, DE — _Lead Frontend Developer_
-###### Stack: [Dashboard & Client App, Tools] React / Redux / Redux-saga / css-modules / post-css / webpack / jenkins / docker 
+###### <sup>STACK</sup> [Dashboard & Client App, Tools] React / Redux / Redux-saga / css-modules / post-css / webpack / jenkins / docker 
 
 - Hired 8 people for the front end and helped them increase their knowledge base and productivity.
 - Made internal presentations to explain the business domain and tech.
@@ -61,7 +61,7 @@ __Adphorus__, Berlin, DE — _Lead Frontend Developer_
 
 `May 2016 - Dec 2016`
 __PointrLabs__, London, UK — _Lead Frontend Developer_
-###### Stack: [Dashboard App] React / Redux / Redux-thunk / material-ui / GraphQL / nodejs (express) / sass / gulpjs
+###### <sup>STACK</sup> React / Redux / Redux-thunk / material-ui / GraphQL / nodejs (express) / sass / gulpjs
 
 - Built a server application from stratch to serve .NET REST API to mobile apps and a new dashboard for serving indoor location data. It fixed dynamic object modeling problems between development teams.
 - Made internal presentation about GraphQL and Redux here to increase adoptation.
@@ -70,7 +70,7 @@ __PointrLabs__, London, UK — _Lead Frontend Developer_
 
 `Sep 2014 - Oct 2016`
 __Asseco South Eastern Europe__, London, UK — _Frontend Developer & Designer_
-###### Stack: [Client Facing Applications] React / Angular1 / GulpJS / Sketch 
+###### <sup>STACK</sup> React / Angular1 / GulpJS / Sketch 
 
 - Built iPad and mobile applications with Angular1/React and Cordova.
 - Helped the product team for different phases like business analyze, wireframing and design.
@@ -79,20 +79,20 @@ __Asseco South Eastern Europe__, London, UK — _Frontend Developer & Designer_
 
 `Apr 2014 - Oct 2014`
 __Online People__, London, UK — _Frontend Developer & Designer_
-###### Stack: [Mobile App] Angular1 / Cordova / Grunt / Sketch
+###### <sup>STACK</sup> Angular1 / Cordova / Grunt / Sketch
 
 - Built a hybrid web application from stratch. Transitioned a facebook app into a cross-device app.
 - Designed all design assets of the application and the company itself.
 
 `Oct 2010 - Dec 2012` 
 __YCEO__, Istanbul, TR — _Frontend Developer_
-###### Stack: [Ecommerce Platform] jQuery / Core Javascript / CSS3 / Python / Django
+###### <sup>STACK</sup> jQuery / Core Javascript / CSS3 / Python / Django
 
 - Implemented Client specific designs on top of Django View Layer like custom Shopify themes.
 - Developed reusable jQuery components like slider, cart and checkout components.
 
 `Jan 2010 - Oct 2010` __Bilginet Bilisim__, Istanbul, TR — _Frontend Developer_
-###### Stack: [Ecommerce Platform] jQuery / CSS / PHP / mysql / ASP
+###### <sup>STACK</sup> jQuery / CSS / PHP / mysql / ASP
 
 - Implemented Client specific designs on top of basic HTML tables.
 - Developed reusable Login and Card component by using jQuery and AJAX.
