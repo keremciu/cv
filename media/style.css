@@ -15,9 +15,11 @@ https://github.com/sindresorhus/github-markdown-css
   color: #24292e;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  /*-webkit-font-smoothing: antialiased;*/
-  font-size: 17px;
+  /*
+  -webkit-font-smoothing: antialiased;
   letter-spacing: -0.022em;
+  */
+  font-size: 17px;
   line-height: 1.47059;
   word-wrap: break-word;
 }
@@ -295,7 +297,7 @@ https://github.com/sindresorhus/github-markdown-css
 
 .markdown-body h6 {
   font-size: 12px;
-  font-weight: 600;
+  font-weight:5600;
 }
 
 .markdown-body p {
@@ -610,9 +612,10 @@ https://github.com/sindresorhus/github-markdown-css
 .markdown-body code {
   padding: 0.2em 0.4em;
   margin: 0;
-  font-size: 85%;
+  font-size: 80%;
+  color: #353535;
   background-color: rgba(27,31,35,0.05);
-  border-radius: 3px;
+  border-radius: 10px;
 }
 
 .markdown-body pre {
