@@ -31,7 +31,7 @@ __Rapid__, Berlin, DE — _Tech Lead Software Engineer_
 __Feather Insurance__, Berlin, DE — _Senior Software Engineer_
 ###### <sup>STACK</sup> React / react-testing-library / nextjs / emotion / webpack / docker
 
-- Led a token based auth to cookie based auth transition project with head of engineering.
+- Led a token-based auth to cookie-based auth transition project with head of engineering.
 - Created a testing culture for frontend applications and made workshops and presentations.
 - Wrote many documents(ADR/ERD/RFC) to improve code quality/understanding all across engineering.
 - Actively participated in the hiring process and mentored other software engineers.
@@ -40,8 +40,8 @@ __Feather Insurance__, Berlin, DE — _Senior Software Engineer_
 __Cobalt.io__, Berlin, DE — _Senior Software Engineer_
 ###### <sup>STACK</sup> React / react-testing-library / cypress / emotion / styled-system / webpack / circle-ci / docker
 
-- Worked on automation features to reduce manual clicks(90 -> 12) around pentest management process.
-- Built a design system with `styled-system` and followed `tokens > utils > components` pattern.
+- Worked on automation features to reduce manual clicks(90 -> 12) around the pentest management process.
+- Built a design system with `styled-system` lib and followed `tokens > utils > components` pattern.
 - Introduced `contract testing` to make sure backend services do not break web apps. It's a network mock solution built with `mock service worker` and `openapi-backend` libs which consumes OpenAPI specs.
 - Landed e2e infrastructure with Cypress and implemented happy-path tests. (had also [playwright](https://playwright.dev))
 - Improved unit/integration test quality by transitioning from enzyme to `react-testing library`.
@@ -53,50 +53,50 @@ __Adphorus__, Berlin, DE — _Lead Frontend Developer_
 
 - Hired 8 people for the front end and helped them increase their knowledge base and productivity.
 - Made internal presentations to explain the business domain and tech.
-- Worked with design team on rebranding to build a `visual language` that used by consumer facing interfaces.
+- Worked with the design team on rebranding to build a `visual language` that is used by consumer-facing interfaces.
 - Solved scalability problems(aws lambda) for big hotel/airline feeds to create visual ads automatically.
 
-🌟 Adphorus has been acquired by Sojern at November 2017.
+🌟 Adphorus was acquired by Sojern in November 2017.
 
 
 `May 2016 - Dec 2016`
 __PointrLabs__, London, UK — _Lead Frontend Developer_
 ###### <sup>STACK</sup> React / Redux / Redux-thunk / material-ui / GraphQL / nodejs (express) / sass / gulpjs
 
-- Built a server application from stratch to serve .NET REST API to mobile apps and a new dashboard for serving indoor location data. It fixed dynamic object modeling problems between development teams.
-- Made internal presentation about GraphQL and Redux here to increase adoptation.
-- Built a responsive website with automated deploy orchestration.
-- Built a small access management tool to help out marketing team for sharing specialized demos.
+- Built a server application from scratch to serve .NET REST API to mobile apps and a new dashboard for serving indoor location data. It fixed dynamic object modeling problems between development teams.
+- Made internal presentation about GraphQL and Redux here to increase adoption.
+- Built a responsive website with automated deployment orchestration.
+- Built a small access management tool to help out the marketing team in customer specific demos.
 
 `Sep 2014 - Oct 2016`
 __Asseco South Eastern Europe__, London, UK — _Frontend Developer & Designer_
 ###### <sup>STACK</sup> React / Angular1 / GulpJS / Sketch 
 
 - Built iPad and mobile applications with Angular1/React and Cordova.
-- Helped the product team for different phases like business analyze, wireframing and design.
+- Helped the product team with different phases like business analysis, wireframing and design.
 - Made simple interfaces with GulpJS for internal dev tooling.
-- Acted a technical supervisor and joined many client meetings as I worked in several web projects.
+- Acted as a technical supervisor and joined many client meetings as I worked on several web projects.
 
 `Apr 2014 - Oct 2014`
 __Online People__, London, UK — _Frontend Developer & Designer_
 ###### <sup>STACK</sup> Angular1 / Cordova / Grunt / Sketch
 
-- Built a hybrid web application from stratch. Transitioned a facebook app into a cross-device app.
+- Built a hybrid web application from scratch. Transitioned a Facebook app into a cross-device app.
 - Designed all design assets of the application and the company itself.
 
 `Oct 2010 - Dec 2012` 
 __YCEO__, Istanbul, TR — _Frontend Developer_
 ###### <sup>STACK</sup> jQuery / Core Javascript / CSS3 / Python / Django
 
-- Implemented Client specific designs on top of Django View Layer like custom Shopify themes.
+- Implemented client-specific designs on top of the Django View Layer like custom Shopify themes.
 - Developed reusable jQuery components like slider, cart and checkout components.
 
 `Jan 2010 - Oct 2010` __Bilginet Bilisim__, Istanbul, TR — _Frontend Developer_
 ###### <sup>STACK</sup> jQuery / CSS / PHP / mysql / ASP
 
 - Implemented Client specific designs on top of basic HTML tables.
-- Developed reusable Login and Card component by using jQuery and AJAX.
-- Developed a facebook app which works as a tab on our clients facebook pages to show their products.
+- Developed reusable Login and Card components by using jQuery and AJAX.
+- Developed a Facebook app that works as a tab on our client's facebook pages to show their products.
 
 ## Education
 
