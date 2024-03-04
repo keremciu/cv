@@ -5,7 +5,7 @@ title: Kerem Sevencan's CV
 
 ## Kerem Sevencan — [keremciu.github.io](https://keremciu.github.io)
 
-Tech Lead Software Engineer with 13+ years of experience - TypeScript Enthusiast - High EQ
+Tech Lead Software Engineer with 14+ years of experience - TypeScript Enthusiast - High EQ
 
 #### Specialized in
 
