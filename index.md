@@ -16,7 +16,7 @@ Tech Lead Software Engineer with 14+ years of experience - TypeScript Enthusiast
 
 ## Work Experience
 
-`Oct 2022 - Aug 2023`
+`Oct 2022 - Aug 2023(continue as Consultant)`
 __Rapid__, Berlin, DE — _Tech Lead Software Engineer_
 ###### <sup>STACK</sup> React / nextjs / single-spa / python / k8s / aws / eks / nodejs / grahpQL
 
