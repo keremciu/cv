@@ -5,36 +5,44 @@ title: Kerem Sevencan's CV
 
 ## Kerem Sevencan — [keremciu.github.io](https://keremciu.github.io)
 
-Tech Lead Software Engineer with 14+ years of experience - TypeScript Enthusiast - High EQ
+Tech Lead Software Engineer with 16+ years of experience - TypeScript Enthusiast - High EQ
 
 #### Specialized in
 
-- Building scalable web apps with a focus on Testing and Security.
-- Creating user-centric, accessible and consistent Design Systems.
+- Building scalable web apps/portals with a focus on Testing and Security.
+- Creating simple, accessible and consistent Design Systems.
 - Promoting efficient async communication, collaboration, and documentation.
-- Experience in Fintech, Adtech, Devtools, Cybersecurity, Insurtech, and IPS domains.
+- Experience in Devtools, Fintech, Adtech, Cybersecurity, Insurtech, and IPS domains.
 
 ## Work Experience
+`Apr 2024 - Present`
+__Zalando__, Berlin, DE — Senior Software Engineer_
+###### <sup>STACK</sup> React / single-spa / python / k8s / aws / nodejs
+
+- Extended the existing Backend-for-Frontend with **multi-tenancy**, enabling the company to deploy and manage **distinct partner portals** across various URLs from a single system.
+- Restructured the existing micro-frontend infrastructure into a reusable foundation, allowing cross-functional teams to independently build and deploy **their own internal portals** with minimal maintenance overhead.
+- Managed a comprehensive **redesign for all partner-facing applications**. Defined the development roadmap and migration strategy to ensure a smooth delivery under a tight deadline.
+- Supported an 8-person engineering team by proactively resolving complex architectural blockers, encouraging technical ownership, and building trust through reliable collaboration.
 
 `Oct 2022 - Aug 2023`
 __Rapid__, Berlin, DE — _Tech Lead Software Engineer_
 ###### <sup>STACK</sup> React / nextjs / single-spa / python / k8s / aws / eks / nodejs / grahpQL
 
-- Implemented CI/CD and 12-factor app principles for a critical Python monolith.
-- Ran large-scale integration projects with multiple teams, also serving as a PM to design the roadmap.
-- Led a team in AWS account consolidation, also migrating from ECS to EKS.
-- Automated the design-to-frontend handover process by implementing Design Tokens.
-- Created a company-wide microfrontends template for standardized UI development.
+- Modernized a critical Python monolith by integrating CI/CD pipelines and applying **12-factor app principles**, improving overall deployment reliability.
+- Coordinated **large-scale integration efforts** across multiple teams, stepping in to take on project management responsibilities and define clear, achievable roadmaps.
+- Guided the team through complex infrastructure transitions, including an AWS account consolidation and a successful **migration from ECS to EKS**.
+- Streamlined collaboration between design and engineering by introducing Design Tokens to automate the handover process.
+- Built a company-wide **micro-frontend template** to standardize UI development and help other teams initialize new projects efficiently.
 - Ensured enterprise-grade quality by implementing robust testing and security measures.
 
 `Dec 2021 - Oct 2022`
 __Feather Insurance__, Berlin, DE — _Senior Software Engineer_
 ###### <sup>STACK</sup> React / react-testing-library / nextjs / emotion / webpack / docker
 
-- Led a token-based auth to cookie-based auth transition project with head of engineering.
-- Created a testing culture for frontend applications and made workshops and presentations.
-- Wrote many documents(ADR/ERD/RFC) to improve code quality/understanding all across engineering.
-- Actively participated in the hiring process and mentored other software engineers.
+- Partnered directly with the Head of Engineering to execute a critical security migration from **token-based to cookie-based authentication**.
+- Fostered a **strong frontend testing culture** by organizing internal workshops and presenting practical, hands-on best practices to the team.
+- Authored foundational technical documentation (ADRs, ERDs, RFCs) to improve architectural alignment and **system comprehension across the entire engineering department**.
+- Mentored fellow software engineers and actively contributed to the **technical hiring process**, helping to build a supportive and capable team.
 
 `Sep 2019 - Nov 2021`
 __Cobalt.io__, Berlin, DE — _Senior Software Engineer_
