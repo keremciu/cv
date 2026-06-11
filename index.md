@@ -16,8 +16,8 @@ Tech Lead Software Engineer with 16+ years of experience - TypeScript Enthusiast
 
 ## Work Experience
 `Apr 2024 - Present`
-__Zalando__, Berlin, DE — Senior Software Engineer_
-###### <sup>STACK</sup> React / single-spa / python / k8s / aws / nodejs
+__Zalando__, Berlin, DE — _Senior Software Engineer_
+###### <sup>STACK</sup> react / single-spa / python / k8s / aws / nodejs
 
 - Extended the existing Backend-for-Frontend with **multi-tenancy**, enabling the company to deploy and manage **distinct partner portals** across various URLs from a single system.
 - Restructured the existing micro-frontend infrastructure into a reusable foundation, allowing cross-functional teams to independently build and deploy **their own internal portals** with minimal maintenance overhead.
@@ -26,7 +26,7 @@ __Zalando__, Berlin, DE — Senior Software Engineer_
 
 `Oct 2022 - Aug 2023`
 __Rapid__, Berlin, DE — _Tech Lead Software Engineer_
-###### <sup>STACK</sup> React / nextjs / single-spa / python / k8s / aws / eks / nodejs / grahpQL
+###### <sup>STACK</sup> react / nextjs / single-spa / python / k8s / aws / eks / nodejs / grahpQL
 
 - Modernized a critical Python monolith by integrating CI/CD pipelines and applying **12-factor app principles**, improving overall deployment reliability.
 - Coordinated **large-scale integration efforts** across multiple teams, stepping in to take on project management responsibilities and define clear, achievable roadmaps.
@@ -37,7 +37,7 @@ __Rapid__, Berlin, DE — _Tech Lead Software Engineer_
 
 `Dec 2021 - Oct 2022`
 __Feather Insurance__, Berlin, DE — _Senior Software Engineer_
-###### <sup>STACK</sup> React / react-testing-library / nextjs / emotion / webpack / docker
+###### <sup>STACK</sup> react / react-testing-library / nextjs / emotion / webpack / docker
 
 - Partnered directly with the Head of Engineering to execute a critical security migration from **token-based to cookie-based authentication**.
 - Fostered a **strong frontend testing culture** by organizing internal workshops and presenting practical, hands-on best practices to the team.
@@ -46,7 +46,7 @@ __Feather Insurance__, Berlin, DE — _Senior Software Engineer_
 
 `Sep 2019 - Nov 2021`
 __Cobalt.io__, Berlin, DE — _Senior Software Engineer_
-###### <sup>STACK</sup> React / react-testing-library / cypress / emotion / styled-system / webpack / circle-ci / docker
+###### <sup>STACK</sup> react / react-testing-library / cypress / emotion / styled-system / webpack / circle-ci / docker
 
 - Worked on automation features to reduce manual clicks(90 -> 12) around the pentest management process.
 - Built a design system with `styled-system` lib and followed `tokens > utils > components` pattern.
@@ -57,7 +57,7 @@ __Cobalt.io__, Berlin, DE — _Senior Software Engineer_
 
 `Jan 2017 - Mar 2019`
 __Adphorus__, Berlin, DE — _Lead Frontend Developer_
-###### <sup>STACK</sup> [Dashboard & Client App, Tools] React / Redux / Redux-saga / css-modules / post-css / webpack / jenkins / docker 
+###### <sup>STACK</sup> [Dashboard & Client App, Tools] react / redux / redux-saga / css-modules / post-css / webpack / jenkins / docker 
 
 - Hired 8 people for the front end and helped them increase their knowledge base and productivity.
 - Made internal presentations to explain the business domain and tech.
@@ -69,7 +69,7 @@ __Adphorus__, Berlin, DE — _Lead Frontend Developer_
 
 `May 2016 - Dec 2016`
 __PointrLabs__, London, UK — _Lead Frontend Developer_
-###### <sup>STACK</sup> React / Redux / Redux-thunk / material-ui / GraphQL / nodejs (express) / sass / gulpjs
+###### <sup>STACK</sup> react / redux / redux-thunk / material-ui / GraphQL / nodejs (express) / sass / gulpjs
 
 - Built a server application from scratch to serve .NET REST API to mobile apps and a new dashboard for serving indoor location data. It fixed dynamic object modeling problems between development teams.
 - Made internal presentation about GraphQL and Redux here to increase adoption.
@@ -78,7 +78,7 @@ __PointrLabs__, London, UK — _Lead Frontend Developer_
 
 `Sep 2014 - Oct 2016`
 __Asseco South Eastern Europe__, London, UK — _Frontend Developer & Designer_
-###### <sup>STACK</sup> React / Angular1 / GulpJS / Sketch 
+###### <sup>STACK</sup> react / angular1 / gulpjs / sketch 
 
 - Built iPad and mobile applications with Angular1/React and Cordova.
 - Helped the product team with different phases like business analysis, wireframing and design.
@@ -87,20 +87,20 @@ __Asseco South Eastern Europe__, London, UK — _Frontend Developer & Designer_
 
 `Apr 2014 - Oct 2014`
 __Online People__, London, UK — _Frontend Developer & Designer_
-###### <sup>STACK</sup> Angular1 / Cordova / Grunt / Sketch
+###### <sup>STACK</sup> angular1 / cordova / grunt / sketch
 
 - Built a hybrid web application from scratch. Transitioned a Facebook app into a cross-device app.
 - Designed all design assets of the application and the company itself.
 
 `Oct 2010 - Dec 2012` 
 __YCEO__, Istanbul, TR — _Frontend Developer_
-###### <sup>STACK</sup> jQuery / Core Javascript / CSS3 / Python / Django
+###### <sup>STACK</sup> jQuery / core javascript / css3 / python / django
 
 - Implemented client-specific designs on top of the Django View Layer like custom Shopify themes.
 - Developed reusable jQuery components like slider, cart and checkout components.
 
 `Jan 2010 - Oct 2010` __Bilginet Bilisim__, Istanbul, TR — _Frontend Developer_
-###### <sup>STACK</sup> jQuery / CSS / PHP / mysql / ASP
+###### <sup>STACK</sup> jQuery / css / php / mysql / asp
 
 - Implemented Client specific designs on top of basic HTML tables.
 - Developed reusable Login and Card components by using jQuery and AJAX.
