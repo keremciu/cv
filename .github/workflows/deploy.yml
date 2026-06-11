@@ -15,7 +15,8 @@ jobs:
 
       - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.2'
+          ruby-version: '3.3'
+          bundler: latest
           bundler-cache: true
 
       - name: Install system dependencies
