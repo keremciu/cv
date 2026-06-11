@@ -749,6 +749,7 @@ Custom styles
   font-weight: 400;
   color: #6a737d;
   border-bottom: none;
+  margin-top: 2px;
   margin-bottom: 8px;
 }
 .markdown-body h6 sup {
@@ -772,6 +773,22 @@ Custom styles
 }
 .markdown-body table tr:nth-child(2n) {
   background-color: transparent;
+}
+
+/* Separator between work experience entries */
+.markdown-body ul + p {
+  border-top: 1px solid #eaecef;
+  margin-top: 4px;
+  padding-top: 20px;
+}
+
+/* Acquisition note (h5) */
+.markdown-body h5 {
+  font-size: 0.85em;
+  font-weight: 400;
+  color: #6a737d;
+  margin-top: 8px;
+  border-bottom: none;
 }
 
 #footer {
